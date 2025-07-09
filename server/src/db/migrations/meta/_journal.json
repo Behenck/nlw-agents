@@ -15,6 +15,13 @@
       "when": 1751938529093,
       "tag": "0001_faithful_the_fury",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752018150591,
+      "tag": "0002_futuristic_paibok",
+      "breakpoints": true
     }
   ]
 }
